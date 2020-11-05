@@ -1,0 +1,4 @@
+unhabitat_list:
+  title: UnHabitat
+  route_name: count_list
+  base_route: system.admin_content

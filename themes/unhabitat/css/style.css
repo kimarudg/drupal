@@ -1,0 +1,16 @@
+/**
+ * If using a CSS pre-processor, tell it to overwrite this file. If not, place
+ * your custom CSS modifications here.
+ */
+
+#block-unhabitat-search {
+  display: inline-flex;
+  right: 100px;
+  position: absolute;
+}
+
+#block-dropdownlanguage {
+  float: right;
+  position: absolute;
+  right: 0px;
+}
